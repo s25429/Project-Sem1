@@ -16,9 +16,9 @@ Snek The Game 2.0 is a simple game wrote in C++17 that launches and plays in the
 For now the TXT files scoreboard.txt and config.txt do not do anything important, but they have to be present. They are there for future plans.
 
 ## Screenshots
-![Image-1](./imgs/img1.jpg?raw=true)
-![Image-2](./imgs/img2.jpg?raw=true)
-![Image-3](./imgs/img3.jpg?raw=true)
+![Image-1](./imgs/img1.png?raw=true)
+![Image-2](./imgs/img2.png?raw=true)
+![Image-3](./imgs/img3.png?raw=true)
 
 ## Build and Run
 

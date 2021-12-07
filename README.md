@@ -23,7 +23,7 @@ For now the TXT files scoreboard.txt and config.txt do not do anything important
 ## Build and Run
 
 ### 1. Basic setup and explanation of the contents
-First you need to properly setup the environment. How you will set it up depends on the method of compiling the project. Build was tested for compilation errors using g++ with Makefile on Linux and using built-in compiler in Visual Studio 2019 on Windows 10.\
+First you need to properly setup the environment. How you will set it up depends on the method of compiling the project. Build was tested for compilation errors using g++ with Makefile on Linux and using built-in compiler in Visual Studio 2019 on Windows 10.
 
 Files and folders explanation:
 - main.cpp - this is the main file that needs to be compiled. It can be compiled into any name one wishes,

@@ -76,6 +76,5 @@ As with any project, there might be some smaller and bigger issues. Here is a li
 
 ## Contact
 Created by s25429 AKA [ThatHoracy](https://github.com/ThatHoracy), but currently posted on an account using school email (this one!)
-- School e-mail: s25429@pjwstk.edu.pl\
-If you wish to contact me for something else than school related things (like work offer or chit-chat):
-- Business e-mail: cezary.cislak@gmail.com
+- Email: cezary.cislak@gmail.com
+- LinkedIn: [profile page](https://www.linkedin.com/in/cezary-ci%C5%9Blak-913559237/)

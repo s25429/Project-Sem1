@@ -9,7 +9,6 @@
 * [Project Status](#project-status)
 * [Known Issues](#known-issues)
 * [Possible Improvements](#possible-improvements)
-* [Contact](#contact)
 
 ## General Information
 Snek The Game 2.0 is a simple game wrote in C++17 that launches and plays in the console window. It can be compiled and ran on both Linux, Windows and probably also Mac (but not tested on it, should work though). It was made as an university project for the first semester.\
@@ -73,8 +72,3 @@ As with any project, there might be some smaller and bigger issues. Here is a li
 - Updating the game's UI to show current score and maybe direction where snake is going,
 - Adding an instruction on how to move around and basic info about the game's goal,
 - Adding a way to change keybindings.
-
-## Contact
-Created by s25429 AKA [ThatHoracy](https://github.com/ThatHoracy), but currently posted on an account using school email (this one!)
-- Email: cezary.cislak@gmail.com
-- LinkedIn: [profile page](https://www.linkedin.com/in/cezary-ci%C5%9Blak-913559237/)
